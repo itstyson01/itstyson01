@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh Yadav</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itstyson01" alt="itstyson01" /></a> </p>
-
 - 🌱 I’m currently learning **Advance Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itstyson01?tab=repositories](https://github.com/itstyson01?tab=repositories)
@@ -12,6 +10,9 @@
 - 📫 How to reach me **itsmeamandeepyadav@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😜**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itstyson01" alt="itstyson01" /></a> </p>
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
