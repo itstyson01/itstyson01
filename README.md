@@ -75,35 +75,18 @@ Building useful browser extensions with JavaScript and backend services.
 
 ---
 
-<h2 align="center">📈 My GitHub Activity</h2>
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itstyson01&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstyson01&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itstyson01&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="95%"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itstyson01&theme=tokyonight" height="180"/>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itstyson01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itstyson01&theme=tokyonight&hide_border=true&background=0d1117" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstyson01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
-
-</div>
-
----
-
-<h3 align="center">🔥 Keep Building • Keep Learning • Keep Creating</h3>
 ---
 
 ## 🏆 Achievements
