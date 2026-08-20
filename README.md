@@ -56,35 +56,46 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Laptop Assistant
+
 A voice-controlled AI assistant built with Python that can listen, understand commands, and respond using AI.
 
 **Tech:** Python • Gemini • Speech Recognition • Wake Word Detection • Text-to-Speech
 
 ### 🎮 Web Games
-Interactive browser games built using javascript web technologies.
+
+Interactive browser games built using modern web technologies.
 
 **Tech:** HTML • CSS • JavaScript
 
 ### 🌐 Portfolio Builder
+
 A full-stack portfolio application for creating and managing personal portfolios.
 
 **Tech:** React • FastAPI • MongoDB • Tailwind CSS
 
 ### 🧩 Chrome Extensions
+
 Building useful browser extensions with JavaScript and backend services.
 
 ---
 
-
 ## 📊 GitHub Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=itstyson01&theme=tokyonight&hide_border=true
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itstyson01&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=itstyson01&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstyson01&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Jury Award — Hackathon
-- 🏆 2nd Prize Winner — CodeVista Hackathon
+- 🏆 2 Prizes — CodeVista Hackathon
 - 🎖️ Senior Under Officer — NCC
 - 🏅 Best Cadet Award
 - 📚 Qualified GATE 2025 & 2026
