@@ -78,7 +78,7 @@ Building useful browser extensions with JavaScript and backend services.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itstyson01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=itstyson01&theme=tokyonight&hide_border=true
 ---
 
 ## 🏆 Achievements
